@@ -5,6 +5,6 @@ const msg = notes();
 
 console.log(msg);
 
-const note = chalk.blue.bold('hello world');
+const note = chalk.bgRed.bold('Success');
 
 console.log(note);
